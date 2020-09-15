@@ -2,13 +2,13 @@ import React from 'react';
 
 import Typography from '@material-ui/core/Typography';
 
-function Home() {
+function Videos() {
     
     return (
         <Typography paragraph>
-            Text Here
+            Videos
         </Typography>
     );
 }
 
-export default Home;
+export default Videos;
